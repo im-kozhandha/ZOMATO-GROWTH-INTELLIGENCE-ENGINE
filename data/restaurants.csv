@@ -1,0 +1,101 @@
+restaurant_id,city,city_tier,rating,avg_prep_time,cuisine_type
+R001,Mumbai,Tier-1,3.6,15.9,South Indian
+R002,Coimbatore,Tier-2,4.0,12.2,Fast Food
+R003,Surat,Tier-2,3.7,16.6,Chinese
+R004,Mumbai,Tier-1,4.1,16.1,South Indian
+R005,Mumbai,Tier-1,3.8,16.2,South Indian
+R006,Bangalore,Tier-1,3.2,21.5,Chinese
+R007,Surat,Tier-2,3.3,17.0,Fast Food
+R008,Delhi,Tier-1,3.2,19.5,Biryani
+R009,Coimbatore,Tier-2,4.4,11.9,Pizza
+R010,Mumbai,Tier-1,3.4,18.7,Fast Food
+R011,Mumbai,Tier-1,2.7,22.5,South Indian
+R012,Vadodara,Tier-2,4.0,16.2,Fast Food
+R013,Vadodara,Tier-2,4.7,9.4,South Indian
+R014,Mumbai,Tier-1,4.3,11.7,South Indian
+R015,Vadodara,Tier-2,3.4,16.6,Biryani
+R016,Indore,Tier-2,2.8,20.5,North Indian
+R017,Surat,Tier-2,3.7,16.7,Biryani
+R018,Bangalore,Tier-1,3.7,17.9,Chinese
+R019,Coimbatore,Tier-2,3.2,17.3,Fast Food
+R020,Bangalore,Tier-1,4.1,11.3,Fast Food
+R021,Indore,Tier-2,4.9,14.8,Biryani
+R022,Mumbai,Tier-1,3.9,13.2,Fast Food
+R023,Mumbai,Tier-1,3.9,17.2,Chinese
+R024,Delhi,Tier-1,3.2,19.1,North Indian
+R025,Indore,Tier-2,4.6,12.5,Chinese
+R026,Delhi,Tier-1,3.8,16.0,North Indian
+R027,Indore,Tier-2,3.5,16.7,Fast Food
+R028,Vadodara,Tier-2,3.8,16.9,Chinese
+R029,Mumbai,Tier-1,4.1,13.6,Fast Food
+R030,Indore,Tier-2,3.9,17.8,North Indian
+R031,Bangalore,Tier-1,4.5,13.6,North Indian
+R032,Surat,Tier-2,4.0,16.2,Fast Food
+R033,Mumbai,Tier-1,3.6,16.0,North Indian
+R034,Indore,Tier-2,4.0,14.5,North Indian
+R035,Bhopal,Tier-2,4.1,12.1,North Indian
+R036,Vadodara,Tier-2,3.0,19.3,Pizza
+R037,Indore,Tier-2,4.5,10.4,Fast Food
+R038,Bangalore,Tier-1,3.6,19.6,South Indian
+R039,Coimbatore,Tier-2,3.6,17.1,South Indian
+R040,Surat,Tier-2,4.3,13.8,South Indian
+R041,Coimbatore,Tier-2,4.2,13.5,Fast Food
+R042,Mumbai,Tier-1,3.4,18.4,Fast Food
+R043,Surat,Tier-2,4.3,18.4,North Indian
+R044,Indore,Tier-2,3.5,16.9,North Indian
+R045,Indore,Tier-2,4.9,9.2,North Indian
+R046,Delhi,Tier-1,3.3,19.6,Fast Food
+R047,Indore,Tier-2,3.9,10.4,Fast Food
+R048,Bangalore,Tier-1,3.3,18.6,South Indian
+R049,Indore,Tier-2,5.0,9.3,North Indian
+R050,Mumbai,Tier-1,3.1,17.5,North Indian
+R051,Indore,Tier-2,4.1,15.5,Pizza
+R052,Vadodara,Tier-2,3.4,18.1,South Indian
+R053,Mumbai,Tier-1,3.6,13.4,Fast Food
+R054,Vadodara,Tier-2,4.1,13.2,Chinese
+R055,Bangalore,Tier-1,4.5,8.0,South Indian
+R056,Surat,Tier-2,4.8,11.6,North Indian
+R057,Bhopal,Tier-2,2.9,21.1,North Indian
+R058,Coimbatore,Tier-2,4.0,13.4,Chinese
+R059,Indore,Tier-2,4.7,12.6,Fast Food
+R060,Surat,Tier-2,2.8,18.4,Fast Food
+R061,Bangalore,Tier-1,4.0,13.1,Chinese
+R062,Delhi,Tier-1,3.8,16.8,North Indian
+R063,Indore,Tier-2,4.0,13.6,Pizza
+R064,Bhopal,Tier-2,3.3,18.4,Fast Food
+R065,Bhopal,Tier-2,2.9,19.4,South Indian
+R066,Bhopal,Tier-2,2.7,20.7,Pizza
+R067,Bangalore,Tier-1,4.4,12.3,Chinese
+R068,Bhopal,Tier-2,4.5,11.1,Chinese
+R069,Mumbai,Tier-1,4.0,15.6,Fast Food
+R070,Coimbatore,Tier-2,3.5,16.2,Biryani
+R071,Mumbai,Tier-1,2.8,21.0,Fast Food
+R072,Delhi,Tier-1,4.1,13.0,North Indian
+R073,Bangalore,Tier-1,3.1,16.4,South Indian
+R074,Bangalore,Tier-1,3.4,19.8,Pizza
+R075,Indore,Tier-2,3.4,19.0,North Indian
+R076,Bangalore,Tier-1,3.7,21.1,South Indian
+R077,Bangalore,Tier-1,3.3,16.4,South Indian
+R078,Delhi,Tier-1,3.8,15.6,South Indian
+R079,Bangalore,Tier-1,3.4,17.7,Chinese
+R080,Delhi,Tier-1,4.2,16.0,Pizza
+R081,Mumbai,Tier-1,4.4,12.0,North Indian
+R082,Coimbatore,Tier-2,3.9,13.2,North Indian
+R083,Indore,Tier-2,4.1,16.9,North Indian
+R084,Coimbatore,Tier-2,5.0,9.4,Biryani
+R085,Bangalore,Tier-1,3.1,21.3,Fast Food
+R086,Bangalore,Tier-1,3.1,21.0,South Indian
+R087,Surat,Tier-2,4.2,13.9,Biryani
+R088,Coimbatore,Tier-2,5.0,9.7,Biryani
+R089,Bangalore,Tier-1,3.6,16.2,Biryani
+R090,Mumbai,Tier-1,4.8,11.0,Biryani
+R091,Delhi,Tier-1,3.9,17.2,South Indian
+R092,Bangalore,Tier-1,3.4,16.4,Fast Food
+R093,Bangalore,Tier-1,3.2,19.2,Chinese
+R094,Coimbatore,Tier-2,4.2,11.8,Biryani
+R095,Coimbatore,Tier-2,3.3,16.5,Fast Food
+R096,Coimbatore,Tier-2,3.8,15.9,Fast Food
+R097,Bhopal,Tier-2,4.8,8.0,Fast Food
+R098,Bhopal,Tier-2,3.6,21.1,North Indian
+R099,Indore,Tier-2,4.6,9.6,Chinese
+R100,Vadodara,Tier-2,3.1,19.4,Pizza
