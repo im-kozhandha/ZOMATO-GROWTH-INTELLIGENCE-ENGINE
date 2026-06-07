@@ -54,7 +54,8 @@ geographically isolated to Tier-2 delivery operations.
 ### Geographic Diagnosis
 <img width="965" height="544" alt="PAGE 2" src="https://github.com/user-attachments/assets/4b43e624-3578-40a8-82c9-2ad4603e2b9e" />
 ### Root Cause Analysis
-<img width="964" height="546" alt="PAGE 3" src="https://github.com/user-attachments/assets/457633ce-4685-4134-9a0c-2ef44be11e47" />
+<img width="1267" height="712" alt="image" src="https://github.com/user-attachments/assets/02380e5b-5632-4bd2-b1ce-286a23957946" />
+
 ### Operational Recommendations
 <img width="963" height="542" alt="PAGE 4" src="https://github.com/user-attachments/assets/3903839a-6ef2-4e82-87e9-09339ad79445" />
 
