@@ -1,6 +1,6 @@
 ﻿# Zomato Growth Intelligence Engine (ZGIE)
 
-> Diagnosing an 18% order drop in Tier-2 cities using SQL, Python, and Power BI
+> Diagnosing an order drop in Tier-2 cities using SQL, Python, and Power BI
 
 ---
 
